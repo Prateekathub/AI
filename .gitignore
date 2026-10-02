@@ -1,0 +1,5 @@
+.env
+.venv/
+resumes/
+__pycache__/
+API KEYS.txt
